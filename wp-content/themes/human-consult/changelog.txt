@@ -1,0 +1,20 @@
+Version 1.0.7 - November 13, 2017
+
+- disabled recommendation to install WooCommerce plugin by default
+
++ defined constant to set custom string as Projects Archive Page Title
+
+* resolved issue with parse error in empty statement (for PHP < 5.5)
+* fixed Edit Page view: back metabox with option 'Select Slider' (fixed Warning)
+* set plugin 'Booked' as remoted (from common actual path)
+* fixed warning: TGMPA warning when installing plugins (since WP 4.8)
+
+Version 1.0.1 - November 06, 2017                            [released]
+
+- removed path to remote plugin 'MWTemplates Developer'
+
+* fixed Edit Page view: back metabox with option 'Select Slider'
+
+Version 1.0 - November 03, 2017                               [released]
+
+  Initial Release
